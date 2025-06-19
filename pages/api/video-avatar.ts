@@ -1,1 +1,1 @@
-// D-ID video avatar API placeholder
+// API placeholder for D-ID

@@ -1,1 +1,1 @@
-// Component to display video reading
+// Video output and download feature

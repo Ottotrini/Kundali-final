@@ -1,1 +1,1 @@
-// Landing page placeholder
+// Home page entry point

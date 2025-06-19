@@ -1,1 +1,1 @@
-// Visual speaking bot component placeholder
+// Visual bot with avatar

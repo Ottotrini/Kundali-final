@@ -1,1 +1,1 @@
-// User preferences settings UI
+// User settings interface
