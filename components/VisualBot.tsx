@@ -1,0 +1,1 @@
+// Visual speaking bot component placeholder
