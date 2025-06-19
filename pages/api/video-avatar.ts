@@ -1,1 +1,1 @@
-// API placeholder for D-ID
+// API placeholder for D-ID integration
